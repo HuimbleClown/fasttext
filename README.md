@@ -35,13 +35,18 @@ The following arguments are optional:
   -verbose    how often to print to stdout [1000]
   -t          sampling threshold [0.0001]
   -label      labels prefix [__label__]
+```
+
 
   
 ## 参考资料
-```
+
+
+  ```
   1、Facebook page: https://www.facebook.com/groups/1174547215919768
   2、https://github.com/facebookresearch/fastText 
   3、个人博客：https://huimbleclown.github.io/
+  ```
 
 
 
